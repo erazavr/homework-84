@@ -1,0 +1,21 @@
+{
+  "name": "homework-84",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deb": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.3",
+    "nanoid": "^2.1.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
